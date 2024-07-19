@@ -1,0 +1,8 @@
+Task 12: 
+
+imports used
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+Used these imports to visualise the data sets given in the Jupyter Notebook

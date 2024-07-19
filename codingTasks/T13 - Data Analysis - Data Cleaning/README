@@ -1,0 +1,16 @@
+Task 13: 
+
+imports used
+import pandas as pd
+import matplotlib.pyplot as plt
+import numpy as np
+ - import fuzzywuzzy (new)
+ - from fuzzywuzzy import process (new)
+ - import chardet (new)
+
+
+Using fuzzywuzzy to find similar strings and change them to one
+For example: 
+Uk, UK, .UK, /uk, uk
+
+These all fall under UK, fuzzywuzzy helps with finding these similarities

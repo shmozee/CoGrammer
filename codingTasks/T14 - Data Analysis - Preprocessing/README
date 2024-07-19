@@ -1,0 +1,7 @@
+Task 14: 
+
+# Scaling modules
+from mlxtend.preprocessing import minmax_scaling, standardize
+
+Learn how to interpret data, finding null values and how to backfill or drop them
+Understand when to use Standardisation or Normalisation

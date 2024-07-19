@@ -1,0 +1,13 @@
+Task 9: 
+
+In this task we aim to create an email inbox
+We create methods  called 
+ - mark_as_read
+ - populate_inbox
+ - list_emails
+ - read_email
+
+ And give the user choices on what options to call. Either: 
+    1. Read an email
+    2. View unread emails
+    3. Quit application
